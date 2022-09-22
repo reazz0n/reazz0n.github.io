@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 495,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKUBAAAAAAAApgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAKYBAAAAAAAA7QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgEAAAAAAACmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAAIIAAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACPAAAAAAAAAAsAAAAwLCAxNTAsIDE1MA",
+					"AQAAAAAAAAABAAAAggAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AgAAAFQAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAAsAAAAwLCAxMzAsIDE1MA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AgAAAFQAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAA0AAAAyMjEsIDE2MCwgMjIx",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AgAAAFQAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAA0AAAAyNDAsIDEyOCwgMTI4",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"paste",
+					null,
+					"AgAAAFQAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAA0AAAAyNTUsIDIyOCwgMjI1",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AgAAAIQAAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACPAAAAAAAAAA0AAAAyMjEsIDE2MCwgMjIx",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "v"
+					},
+					"AgAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACFAAAAAAAAAAsAAAAxMzksIDAsIDEzOQ",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIQAAAAAAAAAhAAAAAAAAAABAAAAdg",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"paste",
+					null,
+					"AQAAAIQAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"paste",
+					null,
+					"AgAAAIQAAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACPAAAAAAAAAAwAAAAxODYsIDg1LCAyMTE",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Роман/Desktop/project/index.html",
+			"settings":
+			{
+				"buffer_size": 952,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC0BAAAAAAAALQEAAAAAAAAkAAAAQzpcVXNlcnNc0KDQvtC80LDQvVxEZXNrdG9wXHByb2plY3Rc",
+					"AQAAAAAAAAABAAAATAEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAADABAAAAAAAAMAEAAAAAAAABAAAAXA",
+					"AQAAAAAAAAABAAAAMQEAAAAAAAAxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAADABAAAAAAAAMQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAEAAAAAAAAwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AgAAAGUBAAAAAAAAbwEAAAAAAAAAAAAAbwEAAAAAAABvAQAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcMi5qZmlm",
+					"AQAAAAAAAAABAAAAZQEAAAAAAACOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AgAAAJ0BAAAAAAAApwEAAAAAAAAAAAAApwEAAAAAAACnAQAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcMy5qZmlm",
+					"AQAAAAAAAAABAAAAnQEAAAAAAADGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"paste",
+					null,
+					"AgAAANUBAAAAAAAA3wEAAAAAAAAAAAAA3wEAAAAAAADfAQAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcNC5qZmlm",
+					"AQAAAAAAAAABAAAA1QEAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AgAAAA0CAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAXAgAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcNS5qZmlm",
+					"AQAAAAAAAAABAAAADQIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"paste",
+					null,
+					"AgAAAEUCAAAAAAAATwIAAAAAAAAAAAAATwIAAAAAAABPAgAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcNi5qZmlm",
+					"AQAAAAAAAAABAAAARQIAAAAAAABuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AgAAAH0CAAAAAAAAhwIAAAAAAAAAAAAAhwIAAAAAAACHAgAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcNy5qZmlm",
+					"AQAAAAAAAAABAAAAfQIAAAAAAACmAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"paste",
+					null,
+					"AgAAALUCAAAAAAAAvwIAAAAAAAAAAAAAvwIAAAAAAAC/AgAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcOC5qZmlm",
+					"AQAAAAAAAAABAAAAtQIAAAAAAADeAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"paste",
+					null,
+					"AgAAAO0CAAAAAAAA9wIAAAAAAAAAAAAA9wIAAAAAAAD3AgAAAAAAAC4AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcOS5qZmlm",
+					"AQAAAAAAAAABAAAA7QIAAAAAAAAWAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"paste",
+					null,
+					"AgAAACUDAAAAAAAALwMAAAAAAAAAAAAALwMAAAAAAAAvAwAAAAAAAC8AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcMTAuamZpZg",
+					"AQAAAAAAAAABAAAAJQMAAAAAAABPAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"paste",
+					null,
+					"AgAAAF0DAAAAAAAAZwMAAAAAAAAAAAAAZwMAAAAAAABnAwAAAAAAAC8AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcMTEuamZpZg",
+					"AQAAAAAAAAABAAAAXQMAAAAAAACHAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"paste",
+					null,
+					"AgAAAJUDAAAAAAAAnwMAAAAAAAAAAAAAnwMAAAAAAACfAwAAAAAAAC8AAABDOlxVc2Vyc1zQoNC+0LzQsNC9XERlc2t0b3BccHJvamVjdFxpbWdcMTIuamZpZg",
+					"AQAAAAAAAAABAAAAlQMAAAAAAAC/AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AgAAAGkBAAAAAAAAagEAAAAAAAAAAAAAagEAAAAAAABqAQAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAAaQEAAAAAAABqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AgAAAKEBAAAAAAAAogEAAAAAAAAAAAAAogEAAAAAAACiAQAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAAoQEAAAAAAACiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AgAAANkBAAAAAAAA2gEAAAAAAAAAAAAA2gEAAAAAAADaAQAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAA2QEAAAAAAADaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AgAAABECAAAAAAAAEgIAAAAAAAAAAAAAEgIAAAAAAAASAgAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAAEQIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AgAAAEkCAAAAAAAASgIAAAAAAAAAAAAASgIAAAAAAABKAgAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAASQIAAAAAAABKAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AgAAAIECAAAAAAAAggIAAAAAAAAAAAAAggIAAAAAAACCAgAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAAgQIAAAAAAACCAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AgAAALkCAAAAAAAAugIAAAAAAAAAAAAAugIAAAAAAAC6AgAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAAuQIAAAAAAAC6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "9"
+					},
+					"AgAAAPECAAAAAAAA8gIAAAAAAAAAAAAA8gIAAAAAAADyAgAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAA8QIAAAAAAADyAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAACoDAAAAAAAAKwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgMAAAAAAAAqAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAGMDAAAAAAAAZAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwMAAAAAAABjAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAJwDAAAAAAAAnQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAMAAAAAAACcAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKMAAAAAAAAAowAAAAAAAAAZAAAAINCyINGA0LDQt9C90YvQtSDQs9C+0LTQsA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Роман/Desktop/Галерея/Галерея/index.html",
+		"/C/Users/Роман/Desktop/Галерея/Галерея/css/main.css",
+		"/C/Users/Роман/Desktop/project/css/main.css",
+		"/C/Users/Роман/Desktop/project/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Роман/Desktop/project/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

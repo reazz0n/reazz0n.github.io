@@ -1,0 +1,20 @@
+@media all and (max-width: 500px){
+	.item{
+		max-width: initial;
+		max-height: initial;
+		width: 95vw;
+		height: calc(95vw / 16 * 9);
+	}
+	.img_link{
+		margin: 5px 0;
+	}
+}
+@media all and (min-width: 1200px){
+	.img_link:hover{
+	opacity: 1;
+	transition: 0.6s ease-in;
+	transform: scale(1.2);
+	z-index: 10;
+	box-shadow: 0 0 200px 30px rgba(153, 59, 204, 0.5);
+	}
+}
